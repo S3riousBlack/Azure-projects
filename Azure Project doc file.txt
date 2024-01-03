@@ -1,0 +1,28 @@
+1-Created Two Vnet and did the peering between them
+Vnet1 and Vnet2 
+Peering name-Vnet1toVnet2
+
+2-Created two Virtual machines
+MAchine 1-
+Demo1 
+User -Azureuser1
+
+Machine 2
+Demo2
+USer-Azureuser2
+
+3-Attached the Vms to  Vnets
+
+4-Connected the Vms
+5-Disabled the firewall and successfully pinged the VMS 
+
+6- Created user -
+Testadmin
+Dago439374
+7-Attached Reader role to user 
+
+Please note I am not able to assign RBAC role under IAM for my resource as SImplilearn has not given permission and role is disabled .
+
+
+
+
